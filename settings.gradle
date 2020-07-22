@@ -1,0 +1,3 @@
+include ':calclib'
+include ':app'
+rootProject.name = "Calc"
